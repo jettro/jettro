@@ -1,4 +1,11 @@
 ### Hi there 👋
+Welcome to my profile page. Github contains a lot of code, some repositories are bigger than others. But you get a good impression on what I have been working on.
+- 🔭 I’m currently working on AWS samples
+- 🌱 I’m currently learning AWS CDK
+- 👯 I’m looking to collaborate on everything that is search related
+- 🤔 I’m looking for help with CDK samples related to AWS elasticsearch
+- 💬 Ask me about Elasticsearch, Solr, DDD, CQRS
+- 📫 How to reach me: Twitter @jettroCoenradie
 
 <!--
 **jettro/jettro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
